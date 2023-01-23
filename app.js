@@ -24,4 +24,3 @@ app.use(notFoundHandler);
 app.use(globalErrorHandler);
 
 module.exports = { app };
-
